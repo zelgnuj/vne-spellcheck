@@ -7,7 +7,7 @@ Repo này chỉ chứa các bản phát hành.
 ## Cài lần đầu (macOS)
 
 1. Vào [Releases](../../releases/latest), tải file `VnE-Spellcheck-<phiên bản>.zxp`.
-2. Cài bằng [ZXP/UXP Installer](https://aescripts.com/learn/zxp-installer/) (miễn phí): kéo file `.zxp` vào cửa sổ của nó.
+2. Cài bằng [ZXPInstaller](https://zxpinstaller.com) (miễn phí, không cần đăng nhập): mở ứng dụng rồi kéo file `.zxp` vào cửa sổ của nó.
 3. Mở lại Premiere Pro → **Window › Extensions › VnE Spellcheck**.
 
 ## Cập nhật
